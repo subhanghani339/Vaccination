@@ -1,0 +1,123 @@
+
+body{
+    background-image:url(../images/bg.png);
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+.row{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;   
+}
+
+.top-bar{
+    background-color: white;
+    width: 100%;
+    border-bottom:1px solid #0000000d ;
+}
+
+.logo{
+    width: 250px;
+    
+}
+
+.bottom-shadow{
+    box-shadow: 0px -12px 20px 0px black;
+}
+
+.top-shadow{
+    box-shadow: 0px -15px 20px 0px #6e6e6e2e;
+}
+
+.bgimage {
+    width:100%;
+    height:600px;
+    background-image:url(../images/header.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+  }
+
+  .intro{
+    width:100%;
+    
+    background-color: white;
+    box-shadow: 0px 20px 20px 0px #8080801f;
+  }
+
+.Vaccination_Images {
+    border-radius: 50%; 
+    width: 180px; 
+    height: 180px;
+    border: 5px solid #0e0d43; 
+    margin-bottom: 2%;
+    margin-left: 53px;
+}
+
+.VS_Button {
+    border-radius: 20px 20px;
+    width: 200px;
+}
+
+.Header_Button {
+    border-radius: 25px;
+    width: 180px;
+    font-size: 20px;
+}
+
+.Introduction_HR {
+    height: 5px;
+    background-color: #0e0d43;
+    border-radius: 10px;
+    width: 147px;
+    margin-top: -5px;
+}
+
+.Introduction_Paragraph {
+    border: 3px solid red; 
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.Footer {
+    background-color: black; 
+    height: 50px;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.VS_Para_Adults {
+    background-color: white;
+    box-shadow: 0px 0px 1px 0px grey;
+}
+
+.VS_HR {
+    height: 5px;
+    background-color: #0e0d43; 
+    border-radius: 10px; 
+    width: 235px;
+    margin-top: -5px;
+}
+
+.Card_Style {
+    width: 90%; 
+    box-shadow: 0px 0px grey;
+    background-color: #fcfcfc;
+}
+
+.Card_Style:hover {
+    box-shadow: 0px 0px 3px 0px grey;
+    background-color: white;
+}
+
+.VS_Paras {
+    font-size: 14px;
+}
+
+.Adult_Para_Container {
+    padding-bottom: 5px;
+    padding-top: 50px;
+}
